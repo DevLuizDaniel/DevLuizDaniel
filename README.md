@@ -9,10 +9,8 @@
  <div>
     <table>
         <tr>
-          <td>
-            <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="279" width="330">
-            <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
-          </td>
+            <td><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="279" width="330"></td>
+            <td><img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" height="279" width="380"></td>
         </tr>
     </table>
  </div>
